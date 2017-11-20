@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hologram</string>
+    <string name="lesson_eight_error_could_not_create_vbo">Could not create vbo</string>
+    <string name="lesson_eight_error_unknown">unknown</string>
+</resources>
